@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9154536171257146986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 96092969223704213, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: b103095e1444fc845adb86e80fea1198, type: 2}
+    - target: {fileID: 2285958040797394211, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 087877a2c71ced34fa7882ecfaa6001f, type: 3}
+    - target: {fileID: 3073950972569091726, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Size.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3073950972569091726, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3073950972569091726, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 3073950972569091726, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 5.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718726736896143181, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 5.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.389655
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5536273309870317583, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8712996966978563974, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
+      propertyPath: m_Name
+      value: JunoPlayer
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d33826ccd1eab54fb6e1ceb95a83cca, type: 3}
